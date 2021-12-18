@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [TBA](TBA)
 
-- 📝 I regularly write articles on [TBA](TBA)
+- 📝 I regularly write articles on [https://cobra16.medium.com/subscribe]
 
 - 💬 Ask me about **Terraform, Nomad, Vault or Consul**
 
