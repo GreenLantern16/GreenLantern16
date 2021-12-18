@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on [Terraform, Nomad, Vault and Consul](https://github.com/hashicorp)
 
-- 👨‍💻 All of my projects are available at [TBA](TBA)
-
 - 📝 I regularly write articles on [Medium] (https://cobra16.medium.com/subscribe)
 
 - 💬 Ask me about **Terraform, Nomad, Vault or Consul**
